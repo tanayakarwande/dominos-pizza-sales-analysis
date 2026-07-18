@@ -132,7 +132,7 @@ The project includes charts such as:
 ---
 
 ## Sample Dashboard
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d739f381-25b0-4b33-8eeb-ab32c1fa40eb" />
+<img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/d739f381-25b0-4b33-8eeb-ab32c1fa40eb" />
 
 ---
 
